@@ -20,7 +20,7 @@ See word2vect_README.pdf for word2vec model
 
 ---
 
-The `bert_encoder_embedding.py` file contains the code to train and test the model. The outputs generated are stored in `without_stopwords_output.txt`. `attention.py` file was obtained from the internet as keras does not have an inbuilt attention layer.
+The `bert_encoder_embedding.py` file contains the code to train and test the model. The outputs generated are stored in `without_stopwords_output.txt`. `attention.py` file was obtained from the (https://github.com/thushv89/attention_keras/blob/master/src/layers/attention.py) as keras does not have an inbuilt attention layer.
 
 ### Test/Val Loss
 
