@@ -6,4 +6,4 @@ As Keras does not have inbuilt attention layer, a custom attention layer was use
 
 wikihow DATASET: https://github.com/mahnazkoupaee/WikiHow-Dataset, the wikiHowAll dataset was used from the experiments and should be in the same folder as the other files, it can be downloaded from the given link.
 
-pretrained GLOVE EMBEDDINGS: https://nlp.stanford.edu/projects/glove/, the pretrained glove embeddings used were Wikipedia 2014 + Gigaword 5 (6B tokens, 400K vocab, uncased, 50d, 100d, 200d, & 300d vectors, 822 MB download): glove.6B.zip, and nd should be in the same folder as the other files, it can be downloaded from the given link.
+pretrained GLOVE EMBEDDINGS: https://nlp.stanford.edu/projects/glove/, the pretrained glove embeddings used were Wikipedia 2014 + Gigaword 5 (6B tokens, 400K vocab, uncased, 50d, 100d, 200d, & 300d vectors, 822 MB download): glove.6B.zip, and should be in the same folder as the other files, it can be downloaded from the given link.
