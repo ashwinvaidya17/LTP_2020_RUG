@@ -16,7 +16,7 @@ Embeddings used are
 
 See word2vect_README.pdf for word2vec model
 
-## Word2Vec
+## GloVe
 
 ---
 
